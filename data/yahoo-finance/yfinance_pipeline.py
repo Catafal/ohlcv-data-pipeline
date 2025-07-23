@@ -16,9 +16,7 @@ from datetime import datetime, timedelta
 def create_data_folders():
     """Create organized folder structure for data storage"""
     folders = [
-        "data/yfinance",
-        "data/databases", 
-        "data/exports",
+        "data/databases",
         "config",
         "logs"
     ]

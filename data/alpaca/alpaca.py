@@ -16,9 +16,7 @@ load_dotenv()
 def create_data_folders():
     """Create organized folder structure for data storage"""
     folders = [
-        "data/alpaca",
-        "data/databases", 
-        "data/exports",
+        "data/databases",
         "config",
         "logs"
     ]

@@ -1,0 +1,95 @@
+
+COMPREHENSIVE SCENARIO ANALYSIS REPORT
+==================================================
+Generated: 2025-07-23 14:59:35
+
+DATA SUMMARY
+────────────────────
+Symbols Analyzed: AAPL, AMZN, GOOGL, META, MSFT, NVDA, TSLA
+Data Period: 2015-07-27 to 2025-07-22
+Years of Data: 10.0
+Total Records: 17,584
+
+RISK METRICS SUMMARY
+────────────────────
+
+AAPL:
+  Volatility: 37.62%
+  Sharpe Ratio: 0.373
+  Max Drawdown: 78.89%
+  95% VaR: 2.84%
+
+AMZN:
+  Volatility: 44.52%
+  Sharpe Ratio: 0.341
+  Max Drawdown: 97.81%
+  95% VaR: 3.18%
+
+GOOGL:
+  Volatility: 41.65%
+  Sharpe Ratio: 0.252
+  Max Drawdown: 97.22%
+  95% VaR: 2.81%
+
+META:
+  Volatility: 38.36%
+  Sharpe Ratio: 0.668
+  Max Drawdown: 76.74%
+  95% VaR: 3.56%
+
+MSFT:
+  Volatility: 27.20%
+  Sharpe Ratio: 0.952
+  Max Drawdown: 37.56%
+  95% VaR: 2.65%
+
+NVDA:
+  Volatility: 62.47%
+  Sharpe Ratio: 0.842
+  Max Drawdown: 92.30%
+  95% VaR: 4.57%
+
+TSLA:
+  Volatility: 67.47%
+  Sharpe Ratio: 0.440
+  Max Drawdown: 95.17%
+  95% VaR: 5.48%
+
+Portfolio:
+  Volatility: 31.05%
+  Sharpe Ratio: 0.799
+  Max Drawdown: 65.70%
+  95% VaR: 3.13%
+
+HISTORICAL SCENARIOS ANALYZED
+──────────────────────────────
+
+COVID-19 Pandemic Crash:
+  Period: 2020-02-19 to 2020-03-23
+  Duration: 33 days
+  Severity: 9/10
+
+Tech Selloff & Growth Stock Bear Market:
+  Period: 2021-11-08 to 2022-10-12
+  Duration: 338 days
+  Severity: 7/10
+
+December 2018 Market Correction:
+  Period: 2018-10-03 to 2018-12-24
+  Duration: 82 days
+  Severity: 6/10
+
+August 2015 Flash Crash:
+  Period: 2015-08-18 to 2015-08-25
+  Duration: 7 days
+  Severity: 6/10
+
+May 2022 Growth Stock Crash:
+  Period: 2022-04-05 to 2022-06-16
+  Duration: 72 days
+  Severity: 8/10
+
+Post-COVID Market Recovery:
+  Period: 2020-03-23 to 2020-08-18
+  Duration: 148 days
+  Severity: 2/10

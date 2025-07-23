@@ -2,8 +2,13 @@
   "ALPHA_VANTAGE_API_KEY": "X2OWL6E0XF1WQZO6",
   "database_path": "data/databases/alpha_vantage_data.db",
   "symbols": [
-    "NVDA",
-    "GOOGL"
+    "AAPL",
+    "MSFT", 
+    "GOOGL",
+    "AMZN",
+    "TSLA",
+    "META",
+    "NVDA"
   ],
   "max_retries": 3,
   "rate_limit_delay": 12,
