@@ -1,0 +1,15 @@
+{
+  "ALPHA_VANTAGE_API_KEY": "X2OWL6E0XF1WQZO6",
+  "database_path": "data/databases/alpha_vantage_data.db",
+  "symbols": [
+    "NVDA",
+    "GOOGL"
+  ],
+  "max_retries": 3,
+  "rate_limit_delay": 12,
+  "validation_rules": {
+    "max_daily_return": 0.4,
+    "min_volume": 0,
+    "max_volume": 1000000000000
+  }
+}

@@ -1,0 +1,27 @@
+# OHLCV Data Pipeline Requirements
+# Core data providers
+alpaca-trade-api>=3.0.0
+yfinance>=0.2.0
+alpha_vantage>=2.3.1
+
+# Data processing and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# HTTP requests
+requests>=2.25.0
+
+# Optional: Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Additional financial libraries
+ta-lib>=0.4.0  # Technical analysis (requires separate C library install)
+plotly>=5.0.0  # Interactive charts
+
+# dotenv
+python-dotenv

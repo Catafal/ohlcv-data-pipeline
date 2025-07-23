@@ -1,0 +1,19 @@
+{
+  "ALPACA_API_KEY": "PKPPJYWFE5O7TUE39LYX",
+  "ALPACA_SECRET_KEY": "USzc6uMDxpYuJYjYJIHV87TAS8OFNn38kOXJ8hm6",
+  "ALPACA_BASE_URL": "https://paper-api.alpaca.markets/v2",
+  "database_path": "data/databases/market_data.db",
+  "symbols": [
+    "SU",
+    "LYG",
+    "NVDA",
+    "ASML"
+  ],
+  "max_retries": 3,
+  "rate_limit_delay": 0.2,
+  "validation_rules": {
+    "max_daily_return": 0.4,
+    "min_volume": 0,
+    "max_volume": 1000000000000
+  }
+}
